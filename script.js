@@ -52,11 +52,6 @@ $('#checkout').on('click', () => {
     }
 })
 
-
-
-    alert("Thank you " + name + "! Your order has been confirmed, Thank you .");
-    document.getElementById("").reset();
-
 $(document).ready(function () {
 document.getElementById("form").addEventListener("submit", popUp);
 function popUp() {
